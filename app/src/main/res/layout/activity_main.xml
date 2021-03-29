@@ -54,6 +54,14 @@
         android:text="樂透"
         android:textSize="30sp" />
 
+    <TextView
+        android:id="@+id/txvvb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="震动"
+        android:textSize="36sp"
+
     <ImageView
         android:id="@+id/img"
         android:layout_width="match_parent"
